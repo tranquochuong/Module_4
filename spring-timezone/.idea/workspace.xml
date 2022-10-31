@@ -5,46 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e0e02d6-3db8-4f3b-aa5f-575d41db35ae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../customer-management" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/.idea/artifacts/email_validate_maven_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/.idea/artifacts/email_validate_maven_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/src/main/webapp/WEB-INF/configs/spring-config-mvc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/src/main/webapp/WEB-INF/víews/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../email-validate-maven/src/main/webapp/WEB-INF/víews/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-email-validation/src/main/webapp/WEB-INF/views/success.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/src/main/java/com/example/controller/GreetingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/src/main/webapp/WEB-INF/home-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../spring-greeting/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tudien/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tudien/src/main/java/com/example/tudien/controller/DictionaryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tudien/src/main/java/com/example/tudien/models/Dictionary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tudien/src/main/java/com/example/tudien/services/DictionaryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tudien/src/main/webapp/WEB-INF/views/mean.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../tudien/src/main/webapp/dispatcher-servlet.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,6 +160,7 @@
       <workItem from="1666714835791" duration="21000" />
       <workItem from="1666746877035" duration="68000" />
       <workItem from="1666747028032" duration="15000" />
+      <workItem from="1666768008674" duration="21000" />
     </task>
     <servers />
   </component>

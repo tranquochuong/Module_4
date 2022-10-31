@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="cg:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eecbb084-6e62-4bf9-ba08-81952a8201f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/css/32px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/css/throbber.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/css/tree-viewer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/js/jquery-3.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/js/jstree.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/documentation/js/jstree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/500.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/accordion.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/advance-form-element.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/alerts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/analytics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/area-charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/bar-charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/basic-form-element.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/blog-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/c3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/code-editor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/accordions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/alerts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/c3/c3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/calendar/fullcalendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/calendar/fullcalendar.print.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/chosen/bootstrap-chosen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/chosen/chosen-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/code-editor/ambiance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/code-editor/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/colorpicker/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/cropper/cropper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/data-table/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/data-table/bootstrap-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/datapicker/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/datapicker/datepicker3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/dropzone/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/duallistbox/bootstrap-duallistbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/editor/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/editor/datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/editor/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/editor/x-editor-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/form/all-type-forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/form/themesaller-forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/ionRangeSlider/ion.rangeSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/ionRangeSlider/ion.rangeSlider.skinFlat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/ionRangeSlider/sprite-skin-flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/meanmenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/metisMenu/metisMenu-vertical.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/metisMenu/metisMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/modals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/morrisjs/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/nalika-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/notifications/Lobibox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/notifications/notifications.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/preloader/preloader-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/scrollbar/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/summernote/fonts/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/summernote/fonts/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/summernote/fonts/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/touchspin/jquery.bootstrap-touchspin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/tree-viewer/32px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/tree-viewer/throbber.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/css/tree-viewer/tree-viewer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/data-maps.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/data-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/dual-list-box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/file-manager.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/nalika.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/nalika.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/fonts/nalika.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/google-map.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/images-cropper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/blog-details/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/blog-details/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/contact/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/contact/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/contact/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/contact/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/contact/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/cropper/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/cropper/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/green1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/logo/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/logo/logosn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/16-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/21-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/5-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/6-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/7-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/90-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/new-product/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/notification/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/notification/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/notification/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/notification/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/notification/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/notification/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/notification/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/product/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/product/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/product/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/product/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/product/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/product/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/img/product/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/index-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/index-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/c3-charts/c3-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/c3-charts/c3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/c3-charts/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/calendar/fullcalendar-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/calendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/calendar/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/chart/jquery.peity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/chart/peity-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/charts/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/charts/area-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/charts/bar-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/charts/line-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/charts/rounded-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/chosen/chosen-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/chosen/chosen.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/code-editor/code-editor-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/code-editor/code-editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/code-editor/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/colorpicker/color-picker-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/colorpicker/jquery.spectrum.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/counterup/counterup-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/counterup/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/counterup/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/cropper/cropper-actice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/cropper/cropper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-map/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-map/data-maps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-map/datamaps.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-map/topojson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/bootstrap-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/bootstrap-table-resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/bootstrap-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/colResizable-1.5.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/data-table-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/data-table/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/datapicker/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/datapicker/datepicker-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/dropzone/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/duallistbox/duallistbox.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/duallistbox/jquery.bootstrap-duallistbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/e-payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/editable/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/editable/bootstrap-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/editable/jquery.mockjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/editable/mock-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/editable/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/editable/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/editable/xediable-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/flot/curvedLines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/flot/flot-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/flot/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/flot/jquery.flot.orderBars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/flot/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/flot/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/flot/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/google.maps/google.maps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/icheck/icheck-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/icheck/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/input-mask/jasny-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/ionRangeSlider/ion.rangeSlider.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/ionRangeSlider/ion.rangeSlider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/jquery-price-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/jquery.meanmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/jquery.payform.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/knob/jquery.knob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/knob/knob-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/metisMenu/metisMenu-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/metisMenu/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/morrisjs/morris-active-pro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/morrisjs/morris-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/morrisjs/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/morrisjs/raphael-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/notifications/Lobibox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/notifications/notification-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/password-meter/password-meter-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/password-meter/pwstrength-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/password-meter/zxcvbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/pdf/jquery.media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/pdf/pdf-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/peity/jquery.peity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/peity/peity-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/rangle-slider/jquery-ui-1.10.4.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/rangle-slider/jquery-ui-touch-punch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/rangle-slider/rangle-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/scrollbar/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/scrollbar/mCustomScrollbar-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/select2/select2-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/select2/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/sparkline/jquery.charts-sparkline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/sparkline/jquery.sparkline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/sparkline/sparkline-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/summernote/summernote-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/touchspin/jquery.bootstrap-touchspin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/touchspin/touchspin-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/tree-line/jstree.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/tree-line/jstree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/wizard/jquery.steps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/wizard/steps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/line-charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/lock.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/mailbox-compose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/mailbox-view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/mailbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/modals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/multi-upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/notifications.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/password-meter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/password-recovery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/pdf-viewer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/pdf/mamunur.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/peity.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/preloader.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/product-cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/product-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/product-edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/product-list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/product-payment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/rounded-chart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/sparkline.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/static-table.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/tabs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/tinymc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/tree-view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/Huong/nalika-master/nalika/x-editable.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/java/com/cg/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/java/com/cg/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/layout/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/layout/header-advance-area.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/layout/script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/layout/sidebar-menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/product/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/WEB-INF/views/cp/temp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/accordions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/alerts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/c3/c3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/calendar/fullcalendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/calendar/fullcalendar.print.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/chosen/bootstrap-chosen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/chosen/chosen-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/code-editor/ambiance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/code-editor/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/colorpicker/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/cropper/cropper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/data-table/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/data-table/bootstrap-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/datapicker/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/datapicker/datepicker3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/dropzone/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/duallistbox/bootstrap-duallistbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/editor/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/editor/datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/editor/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/editor/x-editor-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/form/all-type-forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/form/themesaller-forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/ionRangeSlider/ion.rangeSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/ionRangeSlider/ion.rangeSlider.skinFlat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/ionRangeSlider/sprite-skin-flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/meanmenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/metisMenu/metisMenu-vertical.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/metisMenu/metisMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/modals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/morrisjs/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/nalika-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/notifications/Lobibox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/notifications/notifications.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/preloader/preloader-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/scrollbar/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/summernote/fonts/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/summernote/fonts/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/summernote/fonts/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/touchspin/jquery.bootstrap-touchspin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/tree-viewer/32px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/tree-viewer/throbber.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/css/tree-viewer/tree-viewer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/nalika.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/nalika.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/fonts/nalika.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/blog-details/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/blog-details/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/contact/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/contact/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/contact/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/contact/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/contact/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/cropper/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/cropper/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/green1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/logo/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/logo/logosn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/16-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/21-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/5-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/6-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/7-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/90-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/new-product/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/notification/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/notification/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/notification/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/notification/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/notification/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/notification/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/notification/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/product/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/product/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/product/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/product/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/product/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/product/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/img/product/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/c3-charts/c3-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/c3-charts/c3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/c3-charts/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/calendar/fullcalendar-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/calendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/calendar/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/chart/jquery.peity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/chart/peity-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/charts/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/charts/area-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/charts/bar-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/charts/line-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/charts/rounded-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/chosen/chosen-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/chosen/chosen.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/code-editor/code-editor-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/code-editor/code-editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/code-editor/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/colorpicker/color-picker-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/colorpicker/jquery.spectrum.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/counterup/counterup-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/counterup/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/counterup/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/cropper/cropper-actice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/cropper/cropper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-map/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-map/data-maps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-map/datamaps.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-map/topojson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/bootstrap-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/bootstrap-table-resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/bootstrap-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/colResizable-1.5.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/data-table-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/data-table/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/datapicker/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/datapicker/datepicker-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/dropzone/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/duallistbox/duallistbox.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/duallistbox/jquery.bootstrap-duallistbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/e-payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/editable/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/editable/bootstrap-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/editable/jquery.mockjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/editable/mock-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/editable/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/editable/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/editable/xediable-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/flot/curvedLines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/flot/flot-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/flot/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/flot/jquery.flot.orderBars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/flot/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/flot/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/flot/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/google.maps/google.maps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/icheck/icheck-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/icheck/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/input-mask/jasny-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/ionRangeSlider/ion.rangeSlider.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/ionRangeSlider/ion.rangeSlider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/jquery-price-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/jquery.meanmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/jquery.payform.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/knob/jquery.knob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/knob/knob-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/metisMenu/metisMenu-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/metisMenu/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/morrisjs/morris-active-pro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/morrisjs/morris-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/morrisjs/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/morrisjs/raphael-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/notifications/Lobibox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/notifications/notification-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/password-meter/password-meter-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/password-meter/pwstrength-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/password-meter/zxcvbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/pdf/jquery.media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/pdf/pdf-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/peity/jquery.peity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/peity/peity-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/rangle-slider/jquery-ui-1.10.4.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/rangle-slider/jquery-ui-touch-punch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/rangle-slider/rangle-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/scrollbar/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/scrollbar/mCustomScrollbar-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/select2/select2-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/select2/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/sparkline/jquery.charts-sparkline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/sparkline/jquery.sparkline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/sparkline/sparkline-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/summernote/summernote-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/touchspin/jquery.bootstrap-touchspin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/touchspin/touchspin-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/tree-line/jstree.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/tree-line/jstree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/wizard/jquery.steps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/wizard/steps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo_DashBoard/src/main/webapp/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cg_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/cg_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/config/AppInit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/cg/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/accordions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/alerts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/c3/c3.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/calendar/fullcalendar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/calendar/fullcalendar.print.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/chosen/bootstrap-chosen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/chosen/chosen-sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/code-editor/ambiance.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/code-editor/codemirror.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/colorpicker/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/cropper/cropper.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/data-table/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/data-table/bootstrap-table.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/datapicker/colorpicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/datapicker/datepicker3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/dropzone/dropzone.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/duallistbox/bootstrap-duallistbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/editor/bootstrap-editable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/editor/datetimepicker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/editor/select2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/editor/x-editor-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/form/all-type-forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/form/themesaller-forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/ionRangeSlider/ion.rangeSlider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/ionRangeSlider/ion.rangeSlider.skinFlat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/ionRangeSlider/sprite-skin-flat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/meanmenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/metisMenu/metisMenu-vertical.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/metisMenu/metisMenu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/modals.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/morrisjs/morris.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/nalika-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/notifications/Lobibox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/notifications/notifications.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/owl.theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/owl.transitions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/preloader/preloader-style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/scrollbar/jquery.mCustomScrollbar.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/select2/select2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/summernote/fonts/summernote.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/summernote/fonts/summernote.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/summernote/fonts/summernote.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/summernote/summernote.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/tabs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/touchspin/jquery.bootstrap-touchspin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/tree-viewer/32px.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/tree-viewer/throbber.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/css/tree-viewer/tree-viewer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/nalika.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/nalika.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/fonts/nalika.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/blog-details/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/blog-details/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/contact/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/contact/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/contact/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/contact/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/contact/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/cropper/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/cropper/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/green1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/logo/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/logo/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/logo/logosn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/16-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/21-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/5-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/6-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/7-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/90-home_default.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/new-product/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/notification/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/notification/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/notification/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/notification/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/notification/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/notification/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/notification/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/product/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/product/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/product/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/product/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/product/bg-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/product/bg-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/img/product/bg-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/c3-charts/c3-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/c3-charts/c3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/c3-charts/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/calendar/fullcalendar-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/calendar/fullcalendar.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/calendar/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/chart/jquery.peity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/chart/peity-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/charts/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/charts/area-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/charts/bar-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/charts/line-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/charts/rounded-chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/chosen/chosen-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/chosen/chosen.jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/code-editor/code-editor-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/code-editor/code-editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/code-editor/codemirror.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/colorpicker/color-picker-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/colorpicker/jquery.spectrum.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/counterup/counterup-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/counterup/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/counterup/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/cropper/cropper-actice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/cropper/cropper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-map/d3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-map/data-maps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-map/datamaps.all.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-map/topojson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/bootstrap-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/bootstrap-table-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/bootstrap-table-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/bootstrap-table-resizable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/bootstrap-table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/colResizable-1.5.source.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/data-table-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/data-table/tableExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/datapicker/bootstrap-datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/datapicker/datepicker-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/dropzone/dropzone.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/duallistbox/duallistbox.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/duallistbox/jquery.bootstrap-duallistbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/e-payment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/editable/bootstrap-datetimepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/editable/bootstrap-editable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/editable/jquery.mockjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/editable/mock-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/editable/moment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/editable/select2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/editable/xediable-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/flot/curvedLines.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/flot/flot-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/flot/jquery.flot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/flot/jquery.flot.orderBars.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/flot/jquery.flot.pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/flot/jquery.flot.resize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/flot/jquery.flot.tooltip.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/google.maps/google.maps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/icheck/icheck-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/icheck/icheck.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/input-mask/jasny-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/ionRangeSlider/ion.rangeSlider.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/ionRangeSlider/ion.rangeSlider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/jquery-price-slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/jquery.meanmenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/jquery.payform.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/jquery.scrollUp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/knob/jquery.knob.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/knob/knob-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/metisMenu/metisMenu-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/metisMenu/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/morrisjs/morris-active-pro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/morrisjs/morris-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/morrisjs/morris.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/morrisjs/raphael-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/notifications/Lobibox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/notifications/notification-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/password-meter/password-meter-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/password-meter/pwstrength-bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/password-meter/zxcvbn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/pdf/jquery.media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/pdf/pdf-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/peity/jquery.peity.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/peity/peity-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/rangle-slider/jquery-ui-1.10.4.custom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/rangle-slider/jquery-ui-touch-punch.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/rangle-slider/rangle-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/scrollbar/jquery.mCustomScrollbar.concat.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/scrollbar/mCustomScrollbar-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/select2/select2-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/select2/select2.full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/sparkline/jquery.charts-sparkline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/sparkline/jquery.sparkline.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/sparkline/sparkline-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/summernote/summernote-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/summernote/summernote.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/tab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/touchspin/jquery.bootstrap-touchspin.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/touchspin/touchspin-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/tree-line/jstree.active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/tree-line/jstree.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/vendor/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/vendor/modernizr-2.8.3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/wizard/jquery.steps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/wizard/steps-active.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cp/layout/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cp/layout/head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cp/layout/header-advance-area.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cp/layout/script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/cp/layout/sidebar-menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/temp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../customer-management" beforeDir="false" afterPath="$PROJECT_DIR$/../customer-management" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-timezone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-timezone/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Jsp File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GhdMpksaod4Chi3fWDfruIgPyc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Module_4/cg/src/main/webapp/WEB-INF/assets",
+    "spring.configuration.checksum": "6e9cf3eef65da697796cf33f27eb0f57"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Module_4\cg\src\main\webapp\WEB-INF\assets" />
+      <recent name="D:\Module_4\cg\src\main\webapp\WEB-INF\views" />
+      <recent name="D:\Module_4\cg\src\main\webapp\WEB-INF\views\cp\layout" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.67" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.67" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="cg:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="758c923a-2089-4f45-ad7f-7150b1978068" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="62478" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="cg:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eecbb084-6e62-4bf9-ba08-81952a8201f8" name="Changes" comment="" />
+      <created>1666844704590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666844704590</updated>
+      <workItem from="1666844706514" duration="1344000" />
+      <workItem from="1666846074408" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
